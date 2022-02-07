@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x872dCD6E06ce409FabAD0de8051626Cc1af9aCDF",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x872dcd6e06ce409fabad0de8051626cc1af9acdf",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "PataPan",
+  "SYMBOL": "PP",
+  "MAX_SUPPLY": 700,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/patapan",
+  "SHOW_BACKGROUND": true
+}
